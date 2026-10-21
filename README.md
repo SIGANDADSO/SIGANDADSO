@@ -1,4 +1,4 @@
-# ¡Bienvenido/a  a mi perfil! 👋
+# ¡Bienvenido  a  mi perfil! 👋
 ###  🌱 Ingeniero Ambiental | 💻 Tecnólogo en Desarrollo de Software 
 
 Unifico la **ingeniería ambiental**, la **ciencia de datos espaciales** y el **desarrollo web**. Me enfoco en transformar datos geoespaciales en conocimiento mediante análisis satelital en **Google Earth Engine**, procesamiento estadístico en **RStudio** y la creación de plataformas web interactivas.
